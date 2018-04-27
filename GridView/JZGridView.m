@@ -5,7 +5,7 @@
 //  Created by JZTech-xuz on 2018/4/21.
 //  Copyright © 2018年 com.jingzhuan. All rights reserved.
 //
-#import <Masonry.h>
+#import <Masonry/Masonry.h>
 #import "JZGridViewModel.h"
 #import "JZDecorationLineView.h"
 #import "CustomCollectionViewLayout.h"

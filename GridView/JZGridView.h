@@ -5,7 +5,7 @@
 //  Created by JZTech-xuz on 2018/4/21.
 //  Copyright © 2018年 com.jingzhuan. All rights reserved.
 //
-#import <MJRefresh.h>
+#import <MJRefresh/MJRefresh.h>
 #import "JZGridViewDelegate.h"
 #import "JZGridViewDataSource.h"
 #import <UIKit/UIKit.h>
