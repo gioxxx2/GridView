@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "JZTech-xuz" => "617223701@qq.com" }
   s.source        = { :git => "https://github.com/gioxxx2/GridView.git", :tag => "#{s.version}" }
-  s.source_files  = "JZGridView/*.{h,m}"
+  s.source_files  = "JZGridView"
   s.dependency   'MJRefresh'
   s.dependency   'Masonry'
   s.ios.deployment_target = '9.0'
